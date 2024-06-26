@@ -13,7 +13,7 @@ The aim of this project is to identify the drivers for the web traffic from the 
 # Table of contents
 * [Slides](slides.pdf)
 * [The data app](data_app)
-* [Notebooks](notebooks)
+* [Scripts](scripts)
 
 # Dataset specification
 <details>
