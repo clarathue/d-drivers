@@ -11,8 +11,8 @@ EFAHRER.com is a media portal focussing on e-mobility and carbon reduction techn
 The aim of this project is to identify the drivers for the web traffic from the available content history, including reverse-engineering the algorithm of some news feed provider (a.k.a. The News Feed).
 
 # Table of contents
-* [Slides](slides.pdf)
-* [The data app](data_app)
+* [Slides](E-fahrer_final_presentation.pdf)
+* [The data app](streamlit_app)
 * [Scripts](scripts)
 
 # Dataset specification
